@@ -1,0 +1,212 @@
+disease,kids(0-12),teens(14-18),adults
+Fungal infection,Amphotericin B(50mg/vial),Amphotericin B(50mg/vial),Amphotericin B(50mg/vial)
+Allergy,"Zyrtec , Allegra, or Claritin",Astelin and Astepro,"Benadryl, Claritin, Allegra "
+GERD,Omeprazole and lansoprazole,Omeprazole and lansoprazole,Omeprazole and lansoprazole
+Chronic cholestasis,Cholestyramine and ursodiol, Phenobarbital (5 mg/kg/d),Cholestyramine and ursodiol
+Drug Reaction,epinephrine,"diphenhydramine, hydroxyzine, loratadine",diphenhydramine (Benadryl)
+Peptic ulcer disease,"Omeprazole, pantoprazole and lansoprazole","Omeprazole, pantoprazole and lansoprazole",Prostaglandin analogs (misoprostol)
+AIDS,antiretroviral therapy,antiretroviral therapy,antiretroviral therapy
+Diabetes ,Insulin,Insulin,Insulin
+Gastroenteritis,Co-trimoxazole and metronidazole,acetaminophen or ibuprofen,loperamide
+Bronchial Asthma,albuterol and levalbuterol,albuterol and levalbuterol,albuterol and levalbuterol
+Hypertension ,ACE inhibitors,ACE inhibitors,ACE inhibitors
+Migraine,Acetaminophen or ibuprofen,Acetaminophen or ibuprofen,Acetaminophen or ibuprofen
+Cervical spondylosis,ibuprofen or aspirin,ibuprofen or aspirin,ibuprofen or aspirin
+Paralysis (brain hemorrhage),n, n,n
+Jaundice,Phototherapy,n,n
+Malaria,Chloroquine 5 mg/kg once a week,Chloroquine (Aralen),Chloroquine (Aralen)
+Chicken pox,Calamine lotion and a cool bath with added baking soda,Calamine lotion and a cool bath with added baking soda,Calamine lotion and a cool bath with added baking soda
+Dengue,no medicine to treat dengue,no medicine to treat dengue,no medicine to treat dengue
+Typhoid,azithromycin,azithromycin,azithromycin
+hepatitis A,n,n,n
+Hepatitis B,"Interferon alfa-2b injection, Lamivudine oral medication.",tenofovir alafenamide (AF),"entecavir, tenofovir, lamivudine, adefovir "
+Hepatitis C,Interferon and ribavirin,Sofosbuvir (Sovaldi),DAA tablets
+Hepatitis D,Pegylated interferon alpha,Pegylated interferon alpha,Pegylated interferon alpha
+Hepatitis E,ribavirin,cholestyramine,ribavirin
+Alcoholic hepatitis,Pentoxifylline,Pentoxifylline,Pentoxifylline
+Tuberculosis,"Rifampicin, Pyrazinamide and Ethembutol",isoniazid and rifampicin,isoniazid and rifampicin
+Common Cold,Paracetamol and ibuprofen,Paracetamol and ibuprofen,Paracetamol and ibuprofen
+Pneumonia,"azithromycin, clarithromycin","azithromycin, clarithromycin","azithromycin, clarithromycin"
+Dimorphic hemmorhoids(piles),"Hydrocortisone,Haemorrhoid","Hydrocortisone,Haemorrhoid",Haemorrhoid
+Heart attack,digoxin (Lanoxin) and Lasix,Nitroglycerin,Nitroglycerin
+Varicose veins,sclerotherapy,"Motrin (ibuprofen), Tylenol","Motrin (ibuprofen), Tylenol"
+Hypothyroidism,Levothyroxine,Levothyroxine,Levothyroxine
+Hyperthyroidism,ATD therapy ,ATD therapy ,ATD therapy 
+Hypoglycemia,Glucagon,Glucagon,glucogon
+Osteoarthritis,"ibuprofen, naproxen, diclofenac","ibuprofen, naproxen, diclofenac",acetaminophen
+Arthritis,methotrexate,"ibuprofen, naproxen sodium","ibuprofen, naproxen sodium"
+(vertigo) Paroxymsal  Positional Vertigo,metoclopramide and prochlorperazine,prochlorperazine,prochlorperazine
+Acne,"tetracycline, doxycycline, or erythromycin",Isotretinoin,tetracycline or macrolide
+Urinary tract infection,"Amoxicillin, trimethoprim/sulfamethoxazole ",Trimethoprim,Trimethoprim and sulfamethoxazole
+Psoriasis,Clobetasol propionate 0.05% spray,Corticosteroids,"adalimumab, etanercept, infliximab"
+Impetigo,mupirocin antibiotic ointment,mupirocin antibiotic ointment,"antistaphylococcal penicillins, amoxicillin/clavulanate"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
